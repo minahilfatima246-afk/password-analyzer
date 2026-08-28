@@ -1,2 +1,2 @@
-# password-analyzer
+#password-analyzer
 python password strength analyzer
