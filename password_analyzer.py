@@ -98,8 +98,7 @@ print("Estimated entropy:", round(entropy, 2), "bits")
 
 if feedback:
     print("\nSuggestions:")
-
-    for item in feedback:
+for item in feedback:
         print("-", item)
 else:
     print("\nGreat! Your password meets all the basic checks.")
